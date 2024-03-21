@@ -80,8 +80,10 @@ Some potential areas for future improvement and exploration include:
 The Image Caption Generator project showcases the synergy between Convolutional Neural Networks and Long Short-Term Memory networks in generating descriptive captions for images. By leveraging pre-trained CNN models for feature extraction and LSTM for sequence generation, the model can accurately describe the content of images, opening avenues for applications in image understanding, accessibility, and content generation.
 
 
+https://github.com/dreamboat26/fictional-pancake/assets/125608791/e4d37a5d-e9e6-4303-8e9c-33c40b30915b
 
-https://github.com/dreamboat26/fictional-pancake/assets/125608791/a840d796-3999-4e29-8206-14e532e36bf5
+
+
 
 
 
