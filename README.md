@@ -51,7 +51,7 @@ LSTM is utilized for generating captions based on the image features extracted b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/image-caption-generator.git
+   git clone https://github.com/yourusername/fictional-pancake.git
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
